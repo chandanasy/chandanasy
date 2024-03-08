@@ -24,7 +24,7 @@ I'm Chandana, a Computer Engineering Masters Student at NYU.
 
 - **Data Visualization & Business Intelligence:** 
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-  Looker Studio
+  ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=Google&logoColor=white)
 
 - **Machine Learning & Data Science Libraries:** 
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
