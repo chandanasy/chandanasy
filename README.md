@@ -1,7 +1,7 @@
 ## Welcome to my Github 🌱🍄🌿
 
 
-I'm Chandana, a Computer Engineering Masters Student at NYU!
+I'm Chandana, a Computer Engineering Masters Student at NYU based in New York City.
 
 
 ## What I'm Looking For:
