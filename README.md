@@ -49,7 +49,7 @@ I'm Chandana, a Computer Engineering Masters Student at NYU!
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## Contact Information
+## Contact Me Here!
 
 - 📧 Email: [cs7074@nyu.edu](mailto:cs7074@nyu.edu)
 - 🔗 LinkedIn: [linkedin.com/in/chandana-sy](https://linkedin.com/in/chandana-sy)
