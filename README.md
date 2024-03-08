@@ -33,7 +33,7 @@ I'm Chandana, a Computer Engineering Masters Student at NYU!
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
   ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=Google&logoColor=white)
 
-- **Machine Learning & Data Science Libraries:** 
+- **ML & Data Science Libraries:** 
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
