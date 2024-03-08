@@ -1,12 +1,12 @@
-## Welcome to my Github! 🌱🍄🌿
+## Welcome to my Github 🌱🍄🌿
 
 
-I'm Chandana, a Computer Engineering Masters Student at NYU. 
+I'm Chandana, a Computer Engineering Masters Student at NYU!
 
 
 ![Giphy GIF](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
 
-### Skills and Technologies
+## Skills and Technologies
 
 - **Languages & Markup:** 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
