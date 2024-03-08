@@ -15,3 +15,27 @@ I'm Chandana, a Computer Engineering Masters Student at NYU.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+- **Data Engineering & Analysis Tools:** 
+  ![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+  ETL processes
+
+- **Data Visualization & Business Intelligence:** 
+  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+  Looker Studio
+
+- **Machine Learning & Data Science Libraries:** 
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+  NumPy, Pandas, Matplotlib, Seaborn
+
+- **Cloud Platform & Version Control:** 
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
