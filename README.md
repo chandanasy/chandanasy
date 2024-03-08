@@ -4,7 +4,7 @@
 I'm Chandana, a Computer Engineering Masters Student at NYU!
 
 
-## What I'm Looking For
+## What I'm Looking For:
 
 👩🏽‍💻 **On the Job Hunt:** I'm on the lookout for opportunities that resonate with my passion for **Machine Learning, Data Science, and Data Analytics**. Let's talk if you have job openings that align with my skill set and career goals!
 
@@ -14,7 +14,7 @@ I'm Chandana, a Computer Engineering Masters Student at NYU!
 
 ![Giphy GIF](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
 
-## Skills and Technologies
+## Skills and Technologies:
 
 - **Languages & Markup:** 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
