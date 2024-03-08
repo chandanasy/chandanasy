@@ -6,11 +6,9 @@ I'm Chandana, a Computer Engineering Masters Student at NYU!
 
 ## What I'm Looking For
 
-- **On the Job Hunt:** I'm on the lookout for opportunities that resonate with my passion for **Machine Learning, Data Science, and Data Analytics**.
+👩🏽‍💻 **On the Job Hunt:** I'm on the lookout for opportunities that resonate with my passion for **Machine Learning, Data Science, and Data Analytics**. Let's talk if you have job openings that align with my skill set and career goals. I'm interested in roles that will challenge me and grow my expertise in the field.
 
-- **Ready to Collaborate:** I'm keen to contribute to impactful projects. If you're seeking someone with expertise in coding, documentation, or testing, I'm your person.
-
-- **Career Aspirations:** Let's talk if you have job openings that align with my skill set and career goals. I'm interested in roles that will challenge me and grow my expertise in the field.
+🌱 **Ready to Collaborate:** I'm keen to contribute to impactful projects. If you're seeking someone with expertise in coding, documentation, or testing, I'm your person.
 
 
 
