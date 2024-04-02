@@ -10,7 +10,7 @@ I'm Chandana, a Computer Engineering Grad Student at NYU based in New York City.
 
 🌱 **Ready to Collaborate:** I'm keen to contribute to impactful projects. If you're seeking someone with expertise in Machine Learning/Deep Learning or Data Analysis - I'm your person.
 
-🛠️ **Currently working on:** Diffusion Learning; creating dashboards in Looker Studio
+🛠️ **Currently working on:** Diffusion Learning; Learning LLMs; creating dashboards in Looker Studio
 
 
 ![Giphy GIF](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
