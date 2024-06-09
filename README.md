@@ -55,4 +55,3 @@ I'm Chandana, a Computer Engineering Grad Student at NYU based in New York City.
 - 📧 Email: [cs7074@nyu.edu](mailto:cs7074@nyu.edu)
 - 🔗 LinkedIn: [linkedin.com/in/chandana-sy](https://linkedin.com/in/chandana-sy)
 - 🐙 GitHub: [github.com/chandanasy](https://github.com/chandanasy)
-- 🌐 Portfolio: [chandanasy.github.io](https://chandanasy.github.io)
