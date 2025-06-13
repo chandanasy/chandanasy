@@ -1,6 +1,8 @@
 ## Welcome to my Github 🌱🍄🌿
 
 Hey, I'm Chandana!
+Currently building with GenAI @ Amex.
+
 Passionate about intelligent systems — and making not-so-intelligent systems... intelligent. 🤖✨
 
 ## What I'm Looking For:
